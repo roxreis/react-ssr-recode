@@ -1,3 +1,5 @@
+// Página renderizando Home renderizando junto ao servidor
+
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import { Navbar, Nav, Container } from 'react-bootstrap';
